@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.side {
+.card-deck {
     display: flex;
     margin-top: 40px;
 }
