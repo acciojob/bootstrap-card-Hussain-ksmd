@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.side {
+    display: flex;
+    margin-top: 40px;
+}
+.card {
+    margin-left: 20px;
+}
